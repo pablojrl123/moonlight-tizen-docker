@@ -1,3 +1,5 @@
+## ✅For those interested in this build method, use [KyroFrCode's moonlight-chrome-tizen-docker](https://github.com/KyroFrCode/moonlight-chrome-tizen-docker) instead, which has made the necessary changes to the actual Tizen application to get Moonlight working properly on TVs.
+
 # Moonlight for Tizen - Dockerfile template
 An easy method for building Moonlight for Samsung TV
 
